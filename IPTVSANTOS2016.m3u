@@ -88,11 +88,11 @@ https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1360429420.m3
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", Cindie TV ao vivo
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1360429420.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", TV Zimbo ao vivo
+https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", Jornal da Tarde
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 
 
 

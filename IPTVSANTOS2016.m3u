@@ -70,23 +70,23 @@ https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1566418935_b30048000_sle
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", Crime e Investigação ao vivo
 https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/50a9d54d-020a-43d0-9ca8-cb97fc28ef48/5.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", Z Nation ao vivo
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/abe1ee56-bf71-4c69-b281-6045b54f53cb/5.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", SBC Pipoca ao vivo
+https://video01.brascast.com/d8e52626/d8e52626/playlist.m3u8?hls_ctx=12vur61m
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", SBC Studios ao vivo
+https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=m604g517
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", CINE CATÁSTROFE ao vivo
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w222031555.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", AWTV ao vivo
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1360429420.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", Cindie TV ao vivo
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/chunklist_w1360429420.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TESTE 2", NOME⚫
 LINK⚫

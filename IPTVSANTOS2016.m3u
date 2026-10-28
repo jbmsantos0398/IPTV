@@ -55,6 +55,36 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="TV FILMES CXTV 🎞️", CinePIX TV Ao Vivo
 https://stream.ads.ottera.tv/cl/261028dbgsojgi6e7c73dpduv0/1920x1080_6046040_3_f.m3u8?i=728_6178
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b29c59b448d2930ce7045924cfbc1df.webp" group-title="TV FILMES CXTV 🎞️", Western Bound Ao Vivo
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="TV FILMES CXTV 🎞️", Grjngo Ao Vivo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775a242222180d70569e85de9f007687.webp" group-title="TV FILMES CXTV 🎞️", Tv Osório News Ao Vivo
+https://stmv2.srvsh.com.br/0003/0003/chunklist_w2035041391.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbbc692ed0a16a020df7e0fd6816fa.webp" group-title="TV FILMES CXTV 🎞️", Tv Cidade Brasil Ao Vivo
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/365cda8ce34a301e813ff056a9b626fe.webp" group-title="TV FILMES CXTV 🎞️", TV Clube RN Ao Vivo
+https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ab5f48ba024a538cd65fd54869ba8ac.webp" group-title="TV FILMES CXTV 🎞️", Tv J.SID Ao Vivo
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w2139796184.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="TV FILMES CXTV 🎞️", Runtime Ao Vivo
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="TV FILMES CXTV 🎞️", ORTV Filmes e Variedades Ao Vivo
+https://tv.ortv.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
+LINK⚫
+
+#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
+LINK⚫
+
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
 LINK⚫
 

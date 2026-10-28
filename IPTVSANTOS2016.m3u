@@ -34,23 +34,23 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="TV FILMES CXTV 🎞️", Runtime Ação Ao Vivo
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="TV FILMES CXTV 🎞️", Moviesphere Brazil Ao Vivo
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb7d3e167b766f8c9398376cd5f342a2d1056580513ad56167f85ec47694165380b5a497e71abc6a5ebd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05843c66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c97f695d30e82989171bd05e3610b0e7624cdcd7dc1cb05fb8bcb6f68d1707b124f18b5f5caa74a6c84141609f9aff9850f8e7b443496e01a559932da29a6228b71a305d59924c29e9aaf8cc5a4c6be365228b5f1a8cada3836af6ff8a393bd391ccbb17c7c36515e5be7d08cc65db234407ccbf84a0625fe183c35c5834c989cfdb0eebfb27a9d30c6c8ce3f5c28534e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee05c9ca64cf9236c1931b2f42d4d4c032883b9285e6639e641e39c9bb4214750a2a783aeb226526d0e1e5c0884f5f430cadeb24e33228102762e246a58fc6dfb60dc12461321cf0aa1c5247d86142e3ee9a12b27344992cfb4c1ca96fd4dbb7bdcd8ee7b481f5c70b6270a3664b0e7d80a1d5989899deae6396d45eeb3a606ca22f029c3b09d1144/153/1920x1080_6046040/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b5156f5206356ea7e928eedcbc7667.webp" group-title="TV FILMES CXTV 🎞️", Lucas Tv Ao Vivo
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6d003b57380dc2a03fe8e21d3658848e.webp" group-title="TV FILMES CXTV 🎞️", TV Latinasat Ao Vivo
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac834a189809106bcd9593bfa5269e47.webp" group-title="TV FILMES CXTV 🎞️", CHANNEL 1 Ao Vivo
+https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w1359449621.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="TV FILMES CXTV 🎞️", Tv Carioca Internacional Ao Vivo
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/chunklist_w1647835970.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp" group-title="TV FILMES CXTV 🎞️", TV NBT Ao Vivo
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
 LINK⚫

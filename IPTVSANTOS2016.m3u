@@ -25,14 +25,14 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1389332392.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="TV FILMES CXTV 🎞️", Web Tv Cine Ao Vivo
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="TV FILMES CXTV 🎞️", Filmes Online Ao Vivo
+https://stream.ads.ottera.tv/cl/261028dbgsjv5bbpcs73b46vl0/1920x1080_6046040_3_f.m3u8?i=728_6178
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="TV FILMES CXTV 🎞️", Classique TV Ao Vivo
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="TV FILMES CXTV 🎞️", Runtime Ação Ao Vivo
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
 LINK⚫

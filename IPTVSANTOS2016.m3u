@@ -11,7 +11,7 @@
           ###########################   TESTE CX TV  ############################
           #######################################################################
           #######################################################################
-    ####################### https://televisao.tv/sony-one-emocoes  ###################
+    ####################### https://www.cxtv.com.br/tv/categorias  ###################
           #######################################################################
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="TV FILMES CXTV 🎞️", Sony One Cinema Ao Vivo
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
@@ -19,11 +19,11 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="TV FILMES CXTV 🎞️", Rede Clouding TV Ao Vivo
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w2012558280.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="TV FILMES CXTV 🎞️", Tv Aracati HD Ao Vivo
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1389332392.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
-LINK⚫
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="TV FILMES CXTV 🎞️", Web Tv Cine Ao Vivo
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM⚫" group-title="TV FILMES CXTV 🎞️", NOME⚫
 LINK⚫
